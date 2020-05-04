@@ -1,0 +1,20 @@
+{
+  "name": "cats-entry",
+  "version": "1.0.0",
+  "description": "Enter cats automatically",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Jayadeep",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "chromedriver": "^81.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
